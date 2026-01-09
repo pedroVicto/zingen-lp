@@ -31,10 +31,17 @@
     gap: 1rem;
 }
 
+.gap-1\.5rem {
+    gap: 1.5rem;
+}
+
 .grid {
     display: grid;
 }
 
+.items-center {
+    align-items: center;
+}
 
 .container {
     --max-width: 375px;
